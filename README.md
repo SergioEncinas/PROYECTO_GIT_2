@@ -5,17 +5,12 @@ Navega a mi-proyecto en la terminal
 Inicializa un nuevo repositorio Git:
 
 
-
-
-
 Ejercicio 2: Haciendo Cambios
 
 Crea un nuevo archivo llamado readme.md.
 Escribe algo en readme.md, por ejemplo: "Este es mi primer proyecto en Git".
 Agrega readme.md al área de stage con el siguiente comando
 Commitea los cambios
-
-
 
 
 Ejercicio 3: Verificando el Estado y el Historial
@@ -26,12 +21,6 @@ Muestra el historial de commits con el siguiente comando:
 git log
 
 
-
-
-
-
-
-
 Ejercicio 4: Navegación entre Commits
 
 Usa git log para encontrar el hash de un commit anterior.
@@ -40,8 +29,6 @@ Navega a ese commit con el siguiente comando:
 git checkout <hash-del-commit>
 
 Tras el primer cambio las etiquetas nos muestran que HEAD en este momento pertenece a MASTER, se encuentran al mismo nivel.
-
-
 
 HEAD por defecto va a ser la etiqueta que indicará el último cambio realizado en nuestro directorio de trabajo “proyectogit_sencinas”
 
